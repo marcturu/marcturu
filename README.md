@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="200" />
-    <h1 align="center"> Hi there 👋 </h1>
+    <h1 align="center"> 👋 </h1>
     <h3 align="center"> Computer engineer graduated at FIB (UPC) in Barcelona, Spain. Specialized in software.
     <h3 align="center"> All my projects are private, but feel free to reach out if you'd like me to share them with you!    
   </h3>
