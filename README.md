@@ -9,7 +9,6 @@
 - - -
 
 <div align="left">
-    <h3>🔨:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="nodejs" alt="nodejs" width="67" height="auto"/>  
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="67" height="auto"/>    
