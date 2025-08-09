@@ -11,7 +11,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,react,html,css,javascript,cs,cpp,c,python,firebase,git,github,gitlab,figma,visualstudio,idea,mysql,dotnet,azure" />
 </p>
 
-> **SQL Server** icon not available yet. MySQL used as visual reference.  
+> **SQL Server** icon is not available yet. MySQL used as visual reference.  
 > **ASP.NET** in .NET.  
 > **AzureDevOps** in Azure.
 
