@@ -22,6 +22,7 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" title="Firebase" alt="Firebase" width="60" height="auto"/>    
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="60" height="auto"/>  
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="Figma" alt="Figma" width="60" height="auto"/>  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title="Figma" alt="Figma" width="60" height="auto"/>  
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL" alt="SQL" width="60" height="auto"/> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="AzureDevOps" alt="AzureDevOps" width="60" height="auto"/>  
     </div>
