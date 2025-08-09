@@ -11,6 +11,7 @@
 <div align="left">
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="nodejs" alt="nodejs" width="67" height="auto"/>  
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" title="nodejs" alt="nodejs" width="67" height="auto"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="67" height="auto"/>    
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="67" height="auto"/>  
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="67" height="auto"/>  
