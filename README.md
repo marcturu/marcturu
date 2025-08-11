@@ -2,8 +2,9 @@
     <p align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Simulation GIF" width="500">
     </p>    
-    <h1 align="center"> Computer engineer graduated at FIB (UPC) in Barcelona, Spain. Specialized in software. </h1>
-    <h2 align="center"> All my projects are private, but feel free to reach out if you'd like me to share them with you! </h2>
+    <h3 align="center"> Computer engineer graduated at FIB (UPC) in Barcelona, Spain. Specialized in software.
+        <h3 align="center"> All my projects are private, but feel free to reach out if you'd like me to share them with you!
+    </h3>
  <div/>
 
 ---
