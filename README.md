@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,html,css,javascript,cs,cpp,c,python,firebase,git,github,gitlab,figma,visualstudio,idea,mysql,dotnet,azure" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,html,css,javascript,cs,cpp,c,python,firebase,git,github,gitlab,figma,visualstudio,idea,mysql,dotnet,azure&perline=10&size=40" />
 </p>
 
 > **SQL Server** icon is not available yet. MySQL used as visual reference.  
