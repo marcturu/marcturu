@@ -1,9 +1,6 @@
-<div id="header" align="center">
-    <p align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Simulation GIF" width="500">
-    </p>    
-    <h3 align="center"> All my projects are private, but feel free to reach out if you'd like me to share them with you!
- <div/>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRjb3Z0amhwbXpjazluYWFnbXp3aGxscHhkc2g2ZjMzeXVhZXZzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" alt="demo" width="400"/>
+</p>
 
 ---
 
