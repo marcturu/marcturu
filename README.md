@@ -8,10 +8,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,javascript,cs,cpp,python,java,firebase,git,github,gitlab,figma,visualstudio,idea,mysql,dotnet,azure,heroku,vercel&perline=11&size=40" />
 </p>
 
-> **SQL Server** icon is not available yet. MySQL used as visual reference.  
-> **ASP.NET** in .NET.  
-> **AzureDevOps** in Azure.
-
 ---
 
   <a href="https://github.com/user-attachments/files/21698329/CV_MarcTuruRoca_ENG.pdf" target="_blank">
