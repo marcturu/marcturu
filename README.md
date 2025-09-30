@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRjb3Z0amhwbXpjazluYWFnbXp3aGxscHhkc2g2ZjMzeXVhZXZzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" alt="demo" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRyZHkyOWhhOXp5NTgzNGJlNmRyNDdkZmdveG4wM3g0ZWg1cjZydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" width=400"/>
 </p>
+
+<h3 align="center"> All my projects are private, but feel free to reach out if you'd like me to share them with you!
 
 ---
 
