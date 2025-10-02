@@ -15,8 +15,3 @@
   <a href="https://github.com/user-attachments/files/21698329/CV_MarcTuruRoca_ENG.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Download%20CV-red?style=for-the-badge" alt="Descargar CV"/>
   </a>
-</p>
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
