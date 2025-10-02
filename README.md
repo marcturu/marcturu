@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRyZHkyOWhhOXp5NTgzNGJlNmRyNDdkZmdveG4wM3g0ZWg1cjZydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" height=250"/>
 </p>
 
-<h3 align="center"> ⚠️ All my projects are private, but feel free to reach out if you'd like me to share them with you! ⚠️
+<h3 align="center"> All my projects are private, but feel free to reach out if you'd like me to share them with you!️
 
 ---
 
