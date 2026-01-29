@@ -3,7 +3,7 @@
 📍 Barcelona, Spain | Computer Engineer - Software (UPC - FIB)
 > Interested in emerging technologies for software development, with a focus on web applications, design, and project management.
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,javascript,cs,cpp,python,java,firebase,git,github,gitlab,figma,visualstudio,idea,mysql,dotnet,azure,heroku,vercel&perline=11&size=40" />
 
 ## 📁 Projects
