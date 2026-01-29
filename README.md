@@ -6,7 +6,7 @@
 ## 💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,javascript,cs,cpp,python,java,firebase,git,github,gitlab,figma,visualstudio,idea,mysql,dotnet,azure,heroku,vercel&perline=11&size=40" />
 
-## 💻 Projects
+## 📁 Projects
 All my projects are private, but feel free to reach out if you'd like me to share them with you!️
 
 
