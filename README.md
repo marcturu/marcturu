@@ -1,17 +1,21 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRyZHkyOWhhOXp5NTgzNGJlNmRyNDdkZmdveG4wM3g0ZWg1cjZydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" height=250"/>
-</p>
+# Hi, I'm Marc 👋
 
-<h3 align="center"> All my projects are private, but feel free to reach out if you'd like me to share them with you!️
+📍 Barcelona, Spain | Computer Engineer - Software (UPC - FIB)
+> Interested in emerging technologies for software development, with a focus on web applications, design, and project management.
+
+## 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,javascript,cs,cpp,python,java,firebase,git,github,gitlab,figma,visualstudio,idea,mysql,dotnet,azure,heroku,vercel&perline=11&size=40" />
+
+## 💻 Projects
+All my projects are private, but feel free to reach out if you'd like me to share them with you!️
+
+
+## 🌐 Find me
+📧 Email: marcturu80@gmail.com  
+🌍 Website: https://marctururoca.carrd.co  
+💼 LinkedIn: https://linkedin.com/in/1marcturu   
 
 ---
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,javascript,cs,cpp,python,java,firebase,git,github,gitlab,figma,visualstudio,idea,mysql,dotnet,azure,heroku,vercel&perline=11&size=40" />
-</p>
-
----
-
-  <a href="https://github.com/user-attachments/files/21698329/CV_MarcTuruRoca_ENG.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20CV-red?style=for-the-badge" alt="Descargar CV"/>
-  </a>
+<a href="https://github.com/user-attachments/files/21698329/CV_MarcTuruRoca_ENG.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Download%20CV-red?style=for-the-badge" alt="Descargar CV"/>
+</a>
