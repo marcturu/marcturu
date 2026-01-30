@@ -27,7 +27,7 @@ All my projects are private, but feel free to reach out if you'd like me to shar
 - 🎬 CinemaQueueOptimization - Optimizing movie theater ticket and food lines with simulation
 - 📊 PlotYourDocs - Turn raw business data into interactive insights
 - 🛒 EcomAgents - Coordinated multi-agent platform for distributed e-commerce operations
-- ⚠️ TaigaIssuesTracker - Rails 7 web app for issue tracking and team collaboration
+- 🐞 TaigaIssuesTracker - Rails 7 web app for issue tracking and team collaboration
 - 🗺️ MunicipiGuessr - Explore Catalunya by testing your map-spotting skills
 - 🏙️ Clean&SafeBCN - Conceptual CPS for cleaner and safer urban spaces
 
