@@ -10,7 +10,7 @@
 All my projects are private, but feel free to reach out if you'd like me to share them with you!️  
 
 - 🌱 EcoWorld - From research to usability-tested e-commerce UX/UI
-- ⚽ LetsManage - Management App for Football Coaches
+- ⚽ [LetsManage](https://github.com/marcturu/letsmanage) - Management App for Football Coaches
 - 📱 Cooltural - Explore & Connect with Catalunya’s Cultural Events
 - 📈 CapitolTradesTelegramBot - Daily Alerts on Politician Stock Moves
 - 🏛️ ExpoMuseos - Full-stack museums & exhibitions directory with Laravel
