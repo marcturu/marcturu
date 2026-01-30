@@ -11,25 +11,25 @@ All my projects are private, but feel free to reach out if you'd like me to shar
 
 - 🌱 EcoWorld - From research to usability-tested e-commerce UX/UI
 - ⚽ [LetsManage](https://github.com/marcturu/letsmanage) - Management App for Football Coaches
-- 📱 Cooltural - Explore & Connect with Catalunya’s Cultural Events
-- 📈 CapitolTradesTelegramBot - Daily Alerts on Politician Stock Moves
+- 📱 [Cooltural](https://github.com/marcturu/cooltural) - Explore & Connect with Catalunya’s Cultural Events
+- 📈 [CapitolTradesTelegramBot](https://github.com/marcturu/capitol-trades-telegram-bot) - Daily Alerts on Politician Stock Moves
 - 🏛️ ExpoMuseos - Full-stack museums & exhibitions directory with Laravel
 - 🏛️ PHPMuseums - Pure PHP directory for museums & exhibitions
 - 🏛️ DrupalMuseums - Drupal directory with museums & exhibitions filters
-- 🎯 MastermindAIGame - Play Mastermind 1v1 or vs AI, powered by Genetic & Five-Guess algorithms
+- 🎯 [MastermindAIGame](https://github.com/marcturu/mastermind-ai-game) - Play Mastermind 1v1 or vs AI, powered by Genetic & Five-Guess algorithms
 - ♟️ JS Checkers - Classic 1v1 Board Game in JavaScript
 - ⏱️ JS Asynchrony - Callbacks, Promises & Scheduling in JavaScript
 - 💻 JS OOP - Algorithms & Data Structures in JavaScript
 - 🎞️ BiopicArchive - Archival Platform for Biographical Content
 - 🍴 Descobrir - Gastronomic Portal
 - 📰 BIT Article - Structured Web Content
-- 🎨 CarrdWebDesigns - Responsive Landing Pages, No-Code Style
-- 🎬 CinemaQueueOptimization - Optimizing movie theater ticket and food lines with simulation
-- 📊 PlotYourDocs - Turn raw business data into interactive insights
-- 🛒 EcomAgents - Coordinated multi-agent platform for distributed e-commerce operations
-- 🐞 TaigaIssuesTracker - Rails 7 web app for issue tracking and team collaboration
-- 🗺️ MunicipiGuessr - Explore Catalunya by testing your map-spotting skills
-- 🏙️ Clean&SafeBCN - Conceptual CPS for cleaner and safer urban spaces
+- 🎨 [CarrdWebDesigns](https://github.com/marcturu/carrd-web-designs) - Responsive Landing Pages, No-Code Style
+- 🎬 [CinemaQueueOptimization](https://github.com/marcturu/cinema-queue-optimization) - Optimizing movie theater ticket and food lines with simulation
+- 📊 [PlotYourDocs](https://github.com/marcturu/plot-your-docs) - Turn raw business data into interactive insights
+- 🛒 [EcomAgents](https://github.com/marcturu/ecom-agents) - Coordinated multi-agent platform for distributed e-commerce operations
+- 🐞 [TaigaIssuesTracker](https://github.com/marcturu/taiga-issues-tracker) - Rails 7 web app for issue tracking and team collaboration
+- 🗺️ [MunicipiGuessr](https://github.com/marcturu/municipi-guessr) - Explore Catalunya by testing your map-spotting skills
+- 🏙️ [Clean&SafeBCN](https://github.com/marcturu/clean-safe-barcelona) - Conceptual CPS for cleaner and safer urban spaces
 
 ## 🌐 Find me
 📧 Email: marcturu80@gmail.com  
