@@ -16,13 +16,13 @@ All my projects are private, but feel free to reach out if you'd like me to shar
 - 🏛️ ExpoMuseos - Full-stack museums & exhibitions directory with Laravel
 - 🏛️ PHPMuseums - Pure PHP directory for museums & exhibitions
 - 🏛️ MuseosFilter - Drupal directory with museums & exhibitions filters
+- 🎯 MastermindAIGame - Play Mastermind 1v1 or vs AI, powered by Genetic & Five-Guess algorithms
 - ♟️ JS Checkers - Classic 1v1 Board Game in JavaScript
 - ⏱️ JS Asynchrony - Callbacks, Promises & Scheduling in JavaScript
 - 💻 JS OOP - Algorithms & Data Structures in JavaScript
 - 🎞️ BiopicArchive - Archival Platform for Biographical Content
 - 🍴 Descobrir - Gastronomic Portal
 - 📰 BIT Article - Structured Web Content
-- 🎯 MastermindAIGame - Play Mastermind 1v1 or vs AI, powered by Genetic & Five-Guess algorithms
 - 🎨 CarrdWebDesigns - Responsive Landing Pages, No-Code Style
 - 🎬 CinemaQueueOptimization - Optimizing movie theater ticket and food lines with simulation
 - 📊 PlotYourDocs - Turn raw business data into interactive insights
