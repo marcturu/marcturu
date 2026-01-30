@@ -15,7 +15,7 @@ All my projects are private, but feel free to reach out if you'd like me to shar
 - 📈 CapitolTradesTelegramBot - Daily Alerts on Politician Stock Moves
 - 🏛️ ExpoMuseos - Full-stack museums & exhibitions directory with Laravel
 - 🏛️ PHPMuseums - Pure PHP directory for museums & exhibitions
-- 🏛️ MuseosFilter - Drupal directory with museums & exhibitions filters
+- 🏛️ DrupalMuseums - Drupal directory with museums & exhibitions filters
 - 🎯 MastermindAIGame - Play Mastermind 1v1 or vs AI, powered by Genetic & Five-Guess algorithms
 - ♟️ JS Checkers - Classic 1v1 Board Game in JavaScript
 - ⏱️ JS Asynchrony - Callbacks, Promises & Scheduling in JavaScript
