@@ -1,6 +1,6 @@
 # Hi, I'm Marc 👋
 
-📍 Barcelona, Spain | Computer Engineer - Software (UPC - FIB)
+📍 Barcelona, Spain | 💻 Computer Engineer - Software (UPC - FIB)
 > Focused on software development, specializing in web applications, UI/UX design, and project management.  
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,javascript,cs,cpp,python,visualstudio,figma,wordpress,mysql,firebase,git,github,gitlab,dotnet,heroku,vercel&perline=10&size=40" />
