@@ -21,7 +21,7 @@ All my projects are private, but feel free to reach out if you'd like me to shar
 - 💻 JS OOP - Algorithms & data structures in JavaScript
 - 🎞️ BiopicArchive - Archival platform for biographical content
 - 🍴 Descobrir - Gastronomic portal
-- 📰 BIT Article - Structured web content
+- 📰 [BITArticle](https://github.com/marcturu/bit-article) - Structured web content
 - 🎨 [CarrdWebDesigns](https://github.com/marcturu/carrd-web-designs) - Responsive landing Pages, no-code style
 - 🎬 [CinemaQueueOptimization](https://github.com/marcturu/cinema-queue-optimization) - Optimizing movie theater ticket and food lines with simulation
 - 📊 [PlotYourDocs](https://github.com/marcturu/plot-your-docs) - Turn raw business data into interactive insights
