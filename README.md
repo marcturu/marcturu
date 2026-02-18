@@ -20,7 +20,7 @@ All my projects are private, but feel free to reach out if you'd like me to shar
 - ⏱️ JS Asynchrony - Callbacks, promises & scheduling in JavaScript
 - 💻 JS OOP - Algorithms & data structures in JavaScript
 - 🎞️ BiopicArchive - Archival platform for biographical content
-- 🍴 Descobrir - Gastronomic portal
+- 🍴 [Descobrir](https://github.com/marcturu/descobrir) - Gastronomic portal
 - 📰 [BITArticle](https://github.com/marcturu/bit-article) - Structured web content
 - 🎨 [CarrdWebDesigns](https://github.com/marcturu/carrd-web-designs) - Responsive landing Pages, no-code style
 - 🎬 [CinemaQueueOptimization](https://github.com/marcturu/cinema-queue-optimization) - Optimizing movie theater ticket and food lines with simulation
