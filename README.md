@@ -19,7 +19,7 @@ All my projects are private, but feel free to reach out if you'd like me to shar
 - ♟️ JS Checkers - Classic 1v1 board game in JavaScript
 - ⏱️ JS Asynchrony - Callbacks, promises & scheduling in JavaScript
 - 💻 JS OOP - Algorithms & data structures in JavaScript
-- 🎞️ BiopicArchive - Archival platform for biographical content
+- 🎞️ [BiopicArchive](https://github.com/marcturu/biopic-archive) - Archival platform for biographical content
 - 🍴 [Descobrir](https://github.com/marcturu/descobrir) - Gastronomic portal
 - 📰 [BITArticle](https://github.com/marcturu/bit-article) - Structured web content
 - 🎨 [CarrdWebDesigns](https://github.com/marcturu/carrd-web-designs) - Responsive landing Pages, no-code style
