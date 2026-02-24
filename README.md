@@ -13,7 +13,7 @@ All my projects are private, but feel free to reach out if you'd like me to shar
 - 📱 [Cooltural](https://github.com/marcturu/cooltural) - Explore & connect with Catalunya’s cultural events
 - 📈 [CapitolTradesTelegramBot](https://github.com/marcturu/capitol-trades-telegram-bot) - Daily alerts on politician stock moves
 - 🏛️ ExpoMuseos - Laravel full-stack museums & exhibitions directory
-- 🏛️ PHPMuseums - Native PHP directory for museums & exhibitions
+- 🏛️ PHPMuseums - Native PHP Museum Directory with REST API & Authentication
 - 🏛️ [DrupalMuseums](https://github.com/marcturu/drupal-museums) - WAMP Drupal directory with museums & exhibitions filters
 - 🎯 [MastermindAIGame](https://github.com/marcturu/mastermind-ai-game) - Play Mastermind 1v1 or vs AI, powered by Genetic & Five-Guess algorithms
 - ♟️ [JSCheckers](https://github.com/marcturu/js-checkers) - Classic 1v1 board game in JavaScript
