@@ -1,3 +1,4 @@
+
 # Hi, I'm Marc 👋
 
 📍 Barcelona, Spain | 💻 Computer Engineer - Software (UPC - FIB)
@@ -8,27 +9,27 @@
 ## 📁 Projects
 All my projects are private, but feel free to reach out if you'd like me to share them with you!️  
 
-- 🌱 EcoWorld - From research to usability-tested e-commerce UX/UI
-- ⚽ [LetsManage](https://github.com/marcturu/letsmanage) - Management app for football coaches
-- 📱 [Cooltural](https://github.com/marcturu/cooltural) - Explore & connect with Catalunya’s cultural events
-- 📈 [CapitolTradesTelegramBot](https://github.com/marcturu/capitol-trades-telegram-bot) - Daily alerts on politician stock moves
+- EcoWorld - From research to usability-tested e-commerce UX/UI
+- <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="20px" alt="NodeJS Logo"/> [LetsManage](https://github.com/marcturu/letsmanage) - Management app for football coaches
+- <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="20px" alt="NodeJS Logo"/> [Cooltural](https://github.com/marcturu/cooltural) - Explore & connect with Catalunya’s cultural events
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" height="20px" alt="Python Logo"/> [CapitolTradesTelegramBot](https://github.com/marcturu/capitol-trades-telegram-bot) - Daily alerts on politician stock moves
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" height="20px" alt="Laravel Logo"/> ExpoMuseos - Laravel full-stack museums & exhibitions directory
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="20px" alt="PHP logo"/> [PHPMuseums](https://github.com/marcturu/php-museums) - Native PHP Museum Directory with REST API & Authentication
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_drupal.png" height="20px" alt="Drupal Logo"/> [DrupalMuseums](https://github.com/marcturu/drupal-museums) - WAMP Drupal directory with museums & exhibitions filters
-- 🎯 [MastermindAIGame](https://github.com/marcturu/mastermind-ai-game) - Play Mastermind 1v1 or vs AI, powered by Genetic & Five-Guess algorithms
-- ♟️ [JSCheckers](https://github.com/marcturu/js-checkers) - Classic 1v1 board game in JavaScript
-- ⏱️ [JSAsynchrony](https://github.com/marcturu/js-asynchrony) - Callbacks, promises & scheduling in JavaScript
-- 💻 [JSOOP](https://github.com/marcturu/js-oop) - Algorithms & data structures in JavaScript
-- 🎞️ [BiopicArchive](https://github.com/marcturu/biopic-archive) - Archival platform for biographical content
-- 🍴 [Descobrir](https://github.com/marcturu/descobrir) - Gastronomic portal
-- 📰 [BITArticle](https://github.com/marcturu/bit-article) - Structured web content
-- 🎨 [CarrdWebDesigns](https://github.com/marcturu/carrd-web-designs) - Responsive landing Pages, no-code style
-- 🎬 [CinemaQueueOptimization](https://github.com/marcturu/cinema-queue-optimization) - Optimizing movie theater ticket and food lines with simulation
-- 📊 [PlotYourDocs](https://github.com/marcturu/plot-your-docs) - Turn raw business data into interactive insights
-- 🛒 [EcomAgents](https://github.com/marcturu/ecom-agents) - Coordinated multi-agent platform for distributed e-commerce operations
-- 🐞 [TaigaIssuesTracker](https://github.com/marcturu/taiga-issues-tracker) - Rails 7 web app for issue tracking and team collaboration
-- 🗺️ [MunicipiGuessr](https://github.com/marcturu/municipi-guessr) - Explore Catalunya by testing your map-spotting skills
-- 🏙️ [Clean&SafeBCN](https://github.com/marcturu/clean-safe-barcelona) - Conceptual CPS for cleaner and safer urban spaces
+- <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="20px" alt="Java Logo"/> [MastermindAIGame](https://github.com/marcturu/mastermind-ai-game) - Play Mastermind 1v1 or vs AI, powered by Genetic & Five-Guess algorithms
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" height="20px" alt="JS Logo"/> [JSCheckers](https://github.com/marcturu/js-checkers) - Classic 1v1 board game in JavaScript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" height="20px" alt="JS Logo"/> [JSAsynchrony](https://github.com/marcturu/js-asynchrony) - Callbacks, promises & scheduling in JavaScript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" height="20px" alt="JS Logo"/> [JSOOP](https://github.com/marcturu/js-oop) - Algorithms & data structures in JavaScript
+- <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtOWzb0JrqXDblke7WX5sibTWdYCYsVZTYkkuP9fW5QxD8bbwe7w9RhCNgfM6SXCCYHxZfbxNn6JYvZP7SJ_K9JQyzfBdcR2TxsrlskhF8jLTBz8GKgof72oBo46pFuuaTXzvh7sXwQyn/s1600/css3-html5-e1383236383597.png" height="25px" alt="HTML&CSS Logo"/> [BiopicArchive](https://github.com/marcturu/biopic-archive) - Archival platform for biographical content
+- <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtOWzb0JrqXDblke7WX5sibTWdYCYsVZTYkkuP9fW5QxD8bbwe7w9RhCNgfM6SXCCYHxZfbxNn6JYvZP7SJ_K9JQyzfBdcR2TxsrlskhF8jLTBz8GKgof72oBo46pFuuaTXzvh7sXwQyn/s1600/css3-html5-e1383236383597.png" height="25px" alt="HTML&CSS Logo"/> [Descobrir](https://github.com/marcturu/descobrir) - Gastronomic portal
+- <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtOWzb0JrqXDblke7WX5sibTWdYCYsVZTYkkuP9fW5QxD8bbwe7w9RhCNgfM6SXCCYHxZfbxNn6JYvZP7SJ_K9JQyzfBdcR2TxsrlskhF8jLTBz8GKgof72oBo46pFuuaTXzvh7sXwQyn/s1600/css3-html5-e1383236383597.png" height="25px" alt="HTML&CSS Logo"/> [BITArticle](https://github.com/marcturu/bit-article) - Structured web content
+- <img src="https://assets.findstack.com/6f7ug2erhfpll6uqy29evbn8d759" height="20px" alt="Carrd Logo"/> [CarrdWebDesigns](https://github.com/marcturu/carrd-web-designs) - Responsive landing Pages, no-code style
+- <img src="https://www.flexsim.com/wp-content/uploads/2020/04/FlexSim-XMark-1.png" height="15px" alt="Flexsim Logo"/> [CinemaQueueOptimization](https://github.com/marcturu/cinema-queue-optimization) - Optimizing movie theater ticket and food lines with simulation
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" height="20px" alt="Python Logo"/> [PlotYourDocs](https://github.com/marcturu/plot-your-docs) - Turn raw business data into interactive insights
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" height="20px" alt="Python Logo"/> [EcomAgents](https://github.com/marcturu/ecom-agents) - Coordinated multi-agent platform for distributed e-commerce operations
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" height="20px" alt="Ruby Logo"/> [TaigaIssuesTracker](https://github.com/marcturu/taiga-issues-tracker) - Rails 7 web app for issue tracking and team collaboration
+- <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="20px" alt="NodeJS Logo"/> [MunicipiGuessr](https://github.com/marcturu/municipi-guessr) - Explore Catalunya by testing your map-spotting skills
+- [Clean&SafeBCN](https://github.com/marcturu/clean-safe-barcelona) - Conceptual CPS for cleaner and safer urban spaces
 
 ## 🌐 Find me
 [![Gmail](https://img.shields.io/badge/marcturu80-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=marcturu80@gmail.com) 
