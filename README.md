@@ -13,8 +13,8 @@ All my projects are private, but feel free to reach out if you'd like me to shar
 - 📱 [Cooltural](https://github.com/marcturu/cooltural) - Explore & connect with Catalunya’s cultural events
 - 📈 [CapitolTradesTelegramBot](https://github.com/marcturu/capitol-trades-telegram-bot) - Daily alerts on politician stock moves
 - 🏛️ ExpoMuseos - Laravel full-stack museums & exhibitions directory
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="20px" alt="PHP logo"> [PHPMuseums](https://github.com/marcturu/php-museums) - Native PHP Museum Directory with REST API & Authentication
-- 🏛️ [DrupalMuseums](https://github.com/marcturu/drupal-museums) - WAMP Drupal directory with museums & exhibitions filters
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="20px" alt="PHP logo"/> [PHPMuseums](https://github.com/marcturu/php-museums) - Native PHP Museum Directory with REST API & Authentication
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_drupal.png" height="20px" alt="Drupal Logo"/> [DrupalMuseums](https://github.com/marcturu/drupal-museums) - WAMP Drupal directory with museums & exhibitions filters
 - 🎯 [MastermindAIGame](https://github.com/marcturu/mastermind-ai-game) - Play Mastermind 1v1 or vs AI, powered by Genetic & Five-Guess algorithms
 - ♟️ [JSCheckers](https://github.com/marcturu/js-checkers) - Classic 1v1 board game in JavaScript
 - ⏱️ [JSAsynchrony](https://github.com/marcturu/js-asynchrony) - Callbacks, promises & scheduling in JavaScript
