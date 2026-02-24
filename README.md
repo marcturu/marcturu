@@ -14,7 +14,7 @@ All my projects are private, but feel free to reach out if you'd like me to shar
 - 📈 [CapitolTradesTelegramBot](https://github.com/marcturu/capitol-trades-telegram-bot) - Daily alerts on politician stock moves
 - 🏛️ ExpoMuseos - Full-stack museums & exhibitions directory with Laravel
 - 🏛️ PHPMuseums - Pure PHP directory for museums & exhibitions
-- 🏛️ DrupalMuseums - WAMP Drupal directory with museums & exhibitions filters
+- 🏛️ [DrupalMuseums](https://github.com/marcturu/drupal-museums) - WAMP Drupal directory with museums & exhibitions filters
 - 🎯 [MastermindAIGame](https://github.com/marcturu/mastermind-ai-game) - Play Mastermind 1v1 or vs AI, powered by Genetic & Five-Guess algorithms
 - ♟️ [JSCheckers](https://github.com/marcturu/js-checkers) - Classic 1v1 board game in JavaScript
 - ⏱️ [JSAsynchrony](https://github.com/marcturu/js-asynchrony) - Callbacks, promises & scheduling in JavaScript
