@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,javascript,cs,cpp,python,visualstudio,figma,wordpress,mysql,firebase,git,github,gitlab,dotnet,heroku,vercel&perline=10&size=40" />
 
 ## 📁 Projects
-All my projects are private, but feel free to reach out if you'd like me to share them with you!️  
+### All my projects are private, but feel free to reach out if you'd like me to share them with you!️  
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="25px" alt="Figma Logo"/> EcoWorld - From research to usability-tested e-commerce UX/UI
 - <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="25px" alt="NodeJS Logo"/> [LetsManage](https://github.com/marcturu/letsmanage) - Management app for football coaches
