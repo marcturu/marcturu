@@ -28,7 +28,7 @@
 - <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/streamlit-icon.png" height="25px" alt="Streamlit Logo"/> [PlotYourDocs](https://github.com/marcturu/plot-your-docs) - Turn raw business data into interactive insights
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" height="25px" alt="Python Logo"/> [EcomAgents](https://github.com/marcturu/ecom-agents) - Coordinated multi-agent platform for distributed e-commerce operations
 - <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" height="22px" alt="Ruby Logo"/> [TaigaIssuesTracker](https://github.com/marcturu/taiga-issues-tracker) - Rails 7 web app for issue tracking and team collaboration
-- <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="25px" alt="NodeJS Logo"/> [MunicipiGuessr](https://github.com/marcturu/municipi-guessr) - Explore Catalunya by testing your map-spotting skills
+- <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="25px" alt="NodeJS Logo"/> [MunicipiGuessr](https://github.com/marcturu/municipiguessr) - Explore Catalunya by testing your map-spotting skills
 - <img src="https://cdn-icons-png.flaticon.com/512/9709/9709198.png" height="25px" alt="CPS Logo"/> [Clean&SafeBCN](https://github.com/marcturu/clean-safe-barcelona) - Conceptual CPS for cleaner and safer urban spaces
 
 ## 🌐 Find me
