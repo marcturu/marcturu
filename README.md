@@ -4,7 +4,7 @@
 📍 Barcelona, Spain | 💻 Computer Engineer - Software (UPC - FIB)
 > Focused on software development, specializing in web applications, UI/UX design and project management.  
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,javascript,cs,cpp,python,visualstudio,figma,wordpress,mysql,firebase,git,github,gitlab,dotnet,heroku,vercel&perline=10&size=40" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,javascript,cs,cpp,python,tailwind,figma,wordpress,mysql,firebase,git,github,gitlab,dotnet,vercel,heroku&perline=10&size=40" />
 
 ## 📁 Projects
 ### All my projects are private, but feel free to reach out if you'd like me to share them with you!️  
