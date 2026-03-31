@@ -41,6 +41,6 @@
 [![MarcTuruRoca](https://img.shields.io/badge/marctururoca-000000?style=flat&logo=google-chrome&logoColor=white)](https://marctururoca.carrd.co)
 
 ---
-<a href="https://github.com/user-attachments/files/21698329/CV_MarcTuruRoca_ENG.pdf" target="_blank">
+<a href="https://github.com/user-attachments/files/26379990/MarcTuruRoca_CV_eng.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Download%20CV-red?style=for-the-badge" alt="Descargar CV"/>
 </a>
