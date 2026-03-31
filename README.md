@@ -34,6 +34,7 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/9709/9709198.png" height="25px" alt="CPS Logo"/> [Clean&SafeBCN](https://github.com/marcturu/clean-safe-barcelona) - Conceptual CPS for cleaner and safer urban spaces
 
 ## 🌐 Find me
+
 [![Gmail](https://img.shields.io/badge/marcturu80-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=marcturu80@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/1marcturu-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K)](https://linkedin.com/in/1marcturu)
 [![Mastodon](https://img.shields.io/badge/marc.turu-6364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@marcturu)
@@ -41,6 +42,6 @@
 [![MarcTuruRoca](https://img.shields.io/badge/marctururoca-000000?style=flat&logo=google-chrome&logoColor=white)](https://marctururoca.carrd.co)
 
 ---
-<a href="https://github.com/user-attachments/files/26379990/MarcTuruRoca_CV_eng.pdf" target="_blank">
+<a href="https://github.com/user-attachments/files/26382594/MarcTuruRoca_CV_eng.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Download%20CV-red?style=for-the-badge" alt="Descargar CV"/>
 </a>
