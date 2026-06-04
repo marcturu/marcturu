@@ -17,7 +17,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/960px-Sass_Logo_Color.svg.png" height="25px" alt="Sass Logo"/> SaboreaMexico - Discover the flavors of mexican cuisine
 - <img src="https://avatars.githubusercontent.com/u/32607881?s=200&v=4" height="25px" alt="Sass Logo"/> Kauai - Interactive real-world Jurassic Park island experience with maps, animations and modern UI
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png" height="23px" alt="Bootstrap Logo"/> ACMateria - Modern website for an artisan event with Bootstrap components
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="17px" alt="Tailwind Logo"/> ACMateria2 - Modern website for an artisan event with Tailwind utilities
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="18px" alt="Tailwind Logo"/> ACMateria2 - Modern website for an artisan event with Tailwind utilities
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="21px" alt="PHP logo"/> [PHPMuseums](https://github.com/marcturu/php-museums) - Native PHP Museum Directory with REST API & Authentication
 - <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="25px" alt="Nextjs Logo"/> [GlitchVoid](https://github.com/marcturu/glitch-void) - Your terminal is dying. Can you save it?
 - <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="23px" alt="Java Logo"/> [MastermindAIGame](https://github.com/marcturu/mastermind-ai-game) - Play Mastermind 1v1 or vs AI, powered by Genetic & Five-Guess algorithms
