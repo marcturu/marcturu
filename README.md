@@ -11,7 +11,7 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="25px" alt="Figma Logo"/> [EcoWorld](https://github.com/marcturu/ecoworld) - From research to usability-tested e-commerce UX/UI
 - <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="25px" alt="NodeJS Logo"/> [LetsManage](https://github.com/marcturu/letsmanage-clean) - Management app for football coaches
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1280px-React.svg.png" height="25px" alt="React Logo"/> [Cooltural](https://github.com/marcturu/cooltural) - Explore & connect with Catalunya’s cultural events
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1280px-React.svg.png" height="25px" alt="React Logo"/> [Cooltural](https://github.com/marcturu/cooltural) - Explore & connect with Catalunya’s cultural events (🔒)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" height="25px" alt="Python Logo"/> [CapitolSignalsBot](https://github.com/marcturu/capitol-signals-bot) - Daily politician stock telegram alerts
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" height="25px" alt="Laravel Logo"/> [ExpoMuseos](https://github.com/marcturu/expomuseos) - Laravel full-stack museums & exhibitions directory
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/960px-Sass_Logo_Color.svg.png" height="25px" alt="Sass Logo"/> SaboreaMexico - Discover the flavors of mexican cuisine
