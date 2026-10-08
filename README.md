@@ -7,7 +7,6 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,html,css,javascript,typescript,cs,cpp,python,bootstrap,tailwind,figma,wordpress,mysql,firebase,git,github,gitlab,vercel,heroku&perline=11&size=40" />
 
 ## 📁 Projects
-### Some projects are private, but feel free to reach out if you'd like me to share them with you!️  
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="25px" alt="Figma Logo"/> [EcoWorld](https://github.com/marcturu/ecoworld) - From research to usability-tested e-commerce UX/UI
 - <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="25px" alt="NodeJS Logo"/> [LetsManage](https://github.com/marcturu/letsmanage-clean) - Full-stack football management platform for coaches (🔋)
@@ -38,6 +37,8 @@
 - <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtOWzb0JrqXDblke7WX5sibTWdYCYsVZTYkkuP9fW5QxD8bbwe7w9RhCNgfM6SXCCYHxZfbxNn6JYvZP7SJ_K9JQyzfBdcR2TxsrlskhF8jLTBz8GKgof72oBo46pFuuaTXzvh7sXwQyn/s1600/css3-html5-e1383236383597.png" height="32px" alt="HTML&CSS Logo"/> [BITArticle](https://github.com/marcturu/bit-article) - Structured web content platform built with semantic HTML and responsive CSS
 - <img src="https://assets.findstack.com/6f7ug2erhfpll6uqy29evbn8d759" height="25px" alt="Carrd Logo"/> [CarrdWebDesigns](https://github.com/marcturu/carrd-web-designs) - Responsive landing pages designed with Carrd, showcasing portfolio and creative web design
 - <img src="https://cdn-icons-png.flaticon.com/512/9709/9709198.png" height="25px" alt="CPS Logo"/> [Clean&SafeBCN](https://github.com/marcturu/clean-safe-barcelona) - Conceptual smart city project applying cyber-physical systems to urban safety and cleanliness
+
+### Some projects are private, but feel free to reach out if you'd like me to share them with you!️  
 
 ## 🌐 Find me
 
