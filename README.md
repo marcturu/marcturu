@@ -7,6 +7,7 @@
 
 ## 📁 Projects
 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1280px-React.svg.png" height="25px" alt="React Logo"/> [WhatTheHub](https://github.com/marcturu/what-the-hub) - Quantitative analysis and health assessment of GitHub repositories (🔒)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="25px" alt="Figma Logo"/> [EcoWorld](https://github.com/marcturu/ecoworld) - From research to usability-tested e-commerce UX/UI
 - <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="25px" alt="NodeJS Logo"/> [LetsManage](https://github.com/marcturu/letsmanage-clean) - Full-stack football management platform for coaches (🔋)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" height="25px" alt="Python Logo"/> [CapitolSignalsBot](https://github.com/marcturu/capitol-signals-bot) - Politician stock trade Telegram alerts powered by scraping and market analysis
